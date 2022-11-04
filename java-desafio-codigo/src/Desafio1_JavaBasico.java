@@ -8,8 +8,11 @@ public class Desafio1_JavaBasico {
             int B;
 
 
+            // System.out.println("Digite o valor de A: ");
             A = scan.nextInt();
+            // System.out.println("Digite o valor de B: ");
             B = scan.nextInt();
+            
 
             if (A == B){
                 System.out.print("São iguais!");
